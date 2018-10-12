@@ -1,5 +1,5 @@
 from random import choice
-sooji = ['ling5', 'it4', 'ji7', 'sam1', 'su3',
+sooji = ['khong3', 'it4', 'ji7', 'sam1', 'su3',
          'ngoo2', 'liok8', 'tshit4', 'pat4', 'kiu2']
 for _ in range(100):
     pai = []
@@ -14,7 +14,7 @@ for _ in range(100):
     print(' '.join(pai))
 
 for _ in range(100):
-    ue = ['ling5',  'kiu2']
+    ue = ['khong3',  'kiu2']
     for _ in range(8):
         ue.append(
             choice(sooji)
