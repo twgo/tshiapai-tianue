@@ -1,0 +1,57 @@
+﻿alpha_phrase_mtko_001.wav CAGE 英文 是 籠仔 的意思，也是 一個 出名 演員 的 姓//(C A G E) Ing1-bun5 si7 lang5-a2 e5 i3-su3,ia7 si7 tsit8-e5  tshut4-mia5 ian2-uan5 e5 senn3 
+alpha_phrase_mtko_002.wav YAMAHA 這個 日本 牌子 的 鋼琴 真 出名//(Y A M A H A) tsit4 e5 Jit8-pun2 pai5-tsu2 e5 kng3-khim5 tsin1 tshut4-mia5 
+alpha_phrase_mtko_003.wav BOOK 是書//(B O O K) si7 tsheh4
+alpha_phrase_mtko_004.wav STUDENT 是 學生//(S T U D E N T) si7 hak8-sing1                           
+alpha_phrase_mtko_005.wav QUESTION 是 問 問題//(Q U E S T I O N) si7 mng7 bun7-te5                        
+alpha_phrase_mtko_006.wav FARM 就是 農場//(F A R M) to7 si7 long5-tiunn5                           
+alpha_phrase_mtko_007.wav 有 一種 音樂 風格 叫做 JAZZ//u7 tsit8 tsiong2 im1-gak8 hong1-kek4 kio3-tso3 (J A Z Z)                  
+alpha_phrase_mtko_008.wav 堅固 的 英文 是 FIRM// kian1-koo3 e5 Ing1-bun5 si7 (F I R M)                   
+alpha_phrase_mtko_009.wav 欺騙 的 英文 拼寫 是 CHEAT//khi1-phian3 e5 Ing1-bun5 phing1-sia2 si7 (C H E A T)               
+alpha_phrase_mtko_010.wav 我 買 一台 IBM 的 電腦//gua2 be2 tsit8 tai5 (I B M)  e5 tian7-nau2                    
+alpha_phrase_mtko_011.wav USA 是 美國 國名 的 縮寫//(U S A) si7 Bi2-kok4 kok4-mia5 e5 sok4-sia2                  
+alpha_phrase_mtko_012.wav 你 是 咱的 VIP，一定 愛 好好的 共 你 款待//li2 si7 lan2 e5 (V I P),it4-ting7 ai3 ho2-ho2 e5 ka7 li2 khuan2-thai7        
+alpha_phrase_mtko_013.wav 你 是 咱的 VIP，一定 愛 好好的 共 你 款待//li2 si7 lan2 e5 (V I P),it4-ting7 ai3 ho2-ho2 e5 ka7 li2 khuan2-thai7
+alpha_phrase_mtko_014.wav 請 你 坐落來 SIT　DOWN//tshiann2 li2 tse7 loh8-lai5 (S I T D O W N)                   
+alpha_phrase_mtko_015.wav FALL 有 二个 意思 一个 是 秋天， 一个 是 跋落来//(F A L L) u7 nng7 e5 i3-su3 tsit8-e5 si7 tshiu1-thinn1,tsit8-e5 si7 puah8 loh8-lai5 
+alpha_phrase_mtko_016.wav 今仔日 我生日 有準備 一个 雞卵糕 cake CAKE//kin1-a2-jit8 gua2 senn1-jit8 u7 tsun2-pi7 tsit8-e5 ke1-nng7-ko1 (cake C A K E)       
+alpha_phrase_mtko_017.wav WINDOW 佮 WIDOW 差 一个 字母 N，意思 差 真濟//(W I N D O W) kap4 (W I D O W) tsha1 tsit8-e5 ji7-bo2 (N),i3-su3 tsha1 tsin1 tse7     
+alpha_phrase_mtko_018.wav 你 有夠 LAZY， 誠 貧惰//li2 u7-kau3 (L A Z Y),tsiann5 pun5-tuann7                     
+alpha_phrase_mtko_019.wav OX 是 牛公，但是 XO 是 一種 葡萄酒 的 牌子//(OX) si7 gu5-kang1,tan7-si7 (XO) si7 tsit8 tsiong2 phu5-to5-tsiu2 e5 pai5-tsu2       
+alpha_phrase_mtko_020.wav 來，念一遍 REQUIRE，這是 要求 的 英文//lai5,liam7 tsit8 pian3 (R E Q U I R E),tse1 si7 iau1-kiu5 e5 ing1-bun5    
+alpha_phrase_mtko_021.wav 名字 的 名 台語拼做 MIA//mia5-ji7 e5 mia5 tai5-gi2 phing1-tso2 (M I A)                  
+alpha_phrase_mtko_022.wav MIPS 是 一個 單位 名稱 的 縮寫//(M I P S) si7 tsit8-e5 tan1-ui7 mia5-tshing1 e5 sok4-sia2            
+alpha_phrase_mtko_023.wav 這領 衫 的 名牌 頂 有 DELUXE 的 字樣，講 伊 是 真 高貴的//tsit4 nia2 sann1 e5 mia5-pai5 ting2 u7 (D E L U X E) e5 ji7-iunn7,kong2 i1 si7 tsin1 ko1-kui3 e5      
+alpha_phrase_mtko_024.wav 佇 電腦的 編碼 中 HEXA 代表 六進位//ti7 tian7-nau2 e5 pian1-ma2 tiong1 (H E X A) tai7-piau2 lak8 tsin3-ui7             
+alpha_phrase_mtko_025.wav 鞠躬 的 英文 拼做 BOW//kiok4-kiong1 e5 Ing1-bun5 phing1 tso3 (B O W)                          
+alpha_phrase_mtko_026.wav QC 是 品質管制 的 英文 縮寫//(Q C) si7 phin2-tsit4 kuan2-tse3 e5 Ing1-bun5 sok4-sia2                     
+alpha_phrase_mtko_027.wav PROJ 是 計畫 這个 字 的 英文 縮寫//(P R O J) si7 ke3-ue7 tsit4 e5 ji7 e5 Ing1-bun5 sok4-sia2             
+alpha_phrase_mtko_028.wav MARCH 這 字 英文 有 二个 意思，一个 是 「三月」 的 意思，一个 是 「前進」 的 意思//(M A R C H) tsit4 ji7 Ing1-bun5 u7 nng7 e5 i3-su3,tsit8 e5 si7 sann1-gueh8 e5 i3-su3,tsit8 e5 si7 tsian5-tsin3 e5 i3-su3 
+alpha_phrase_mtko_029.wav 你 這馬 是 佇咧 做工課 WORK 做工課，袂使 摸飛 的//li2 tsit4-ma2 si7 ti7-leh4 tso3 khang1-khue3 (W O R K) tso3 khang1-khue3,be7 sai2 moo1-hui1 e5
+alpha_phrase_mtko_030.wav (T H E)     
+alpha_phrase_mtko_031.wav (E X T R A)   
+alpha_phrase_mtko_032.wav (P U S H)    
+alpha_phrase_mtko_033.wav (G N U)     
+alpha_phrase_mtko_034.wav (V O W)     
+alpha_phrase_mtko_035.wav (O P P)     
+alpha_phrase_mtko_036.wav (I N V O L V E) 
+alpha_phrase_mtko_037.wav (J U S T)    
+alpha_phrase_mtko_038.wav (C O N Q U E R) 
+alpha_phrase_mtko_039.wav (Z I U)     
+alpha_phrase_mtko_040.wav (B U B B L E)  
+alpha_phrase_mtko_041.wav (G O R G E)   
+alpha_phrase_mtko_042.wav (F L U X)    
+alpha_phrase_mtko_043.wav (Y A K)     
+alpha_phrase_mtko_044.wav (P I K E)    
+alpha_phrase_mtko_045.wav (Q U O T E)   
+alpha_phrase_mtko_046.wav (D I V I S I O N)
+alpha_phrase_mtko_047.wav (Q U I Z)    
+alpha_phrase_mtko_048.wav (V I E W)     
+alpha_phrase_mtko_049.wav (D U B)     
+alpha_phrase_mtko_050.wav (L O F T Y)   
+alpha_phrase_mtko_051.wav (J A M)
+alpha_phrase_mtko_052.wav (J O Y C E)
+alpha_phrase_mtko_053.wav (F I X)
+alpha_phrase_mtko_054.wav (K N O B)
+alpha_phrase_mtko_055.wav (Z I G) 
+alpha_phrase_mtko_056.wav (Z A G)
+alpha_phrase_mtko_057.wav (J U D G E)
